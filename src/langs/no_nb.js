@@ -51,5 +51,6 @@ jQuery.trumbowyg.langs.no_nb = {
     required: 'Påkrevd',
     description: 'Beskrivelse',
     title: 'Tittel',
-    text: 'Tekst'
+    text: 'Tekst',
+    target: 'Målvindu'
 };
